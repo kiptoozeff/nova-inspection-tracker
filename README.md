@@ -596,8 +596,8 @@ npm install
 ### Getting Help
 For questions about this implementation or the NovaFleet assessment process, please contact:
 
-**Julius Trinova**
-Email: julius@trinovaltd.com
+**Zephaniah Kiptoo**
+Email: kiptoozeff@gmail.com
 
 ---
 
